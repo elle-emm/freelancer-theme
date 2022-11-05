@@ -185,7 +185,7 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
-@media(max-width:767px) {
+@media(max-width:400px) {
     section {
         padding: 75px 0;
     }
@@ -204,7 +204,7 @@ section.success {
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 200px;
+    max-width: 400px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
