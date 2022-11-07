@@ -361,13 +361,11 @@ footer h3 {
     margin-bottom: 30px;
 }
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
-th, td {
-  border-style:solid;
-  border-color: #96D4D4;
+table, th, td {
+  border: 1px solid black;
 }
 </style>
 </head>
